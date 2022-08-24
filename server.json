@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "arroz",
+      "price": 5.90
+    },
+    {
+      "id": 2,
+      "title": "frango",
+      "price": 15.90
+    }
+  ],
+  "stock": [
+    {
+      "id": 1,
+      "quantity": 2
+    },
+    {
+      "id": 2,
+      "quantity": 0
+    }
+  ]
+}
